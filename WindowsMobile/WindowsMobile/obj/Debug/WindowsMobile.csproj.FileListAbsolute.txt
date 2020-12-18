@@ -1,0 +1,15 @@
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\ResolveAssemblyReference.cache
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.AddProduct.resources
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.ProductGrid.resources
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.ProductListView.resources
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.Properties.Resources.resources
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.csproj.GenerateResource.Cache
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\AddProduct.resx
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\AddProduct.cs
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\AddProduct.Designer.cs
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\WindowsMobile.exe
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\WindowsMobile.pdb
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\Newtonsoft.Json.Compact.dll
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\bin\Debug\System.Data.SqlServerCe.dll
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.exe
+H:\CoursS6\Mr Naina\WindowsMobile\WindowsMobile\obj\Debug\WindowsMobile.pdb
